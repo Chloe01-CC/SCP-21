@@ -1,5 +1,6 @@
-# Space-Shooter
-
-Video Link  https://www.youtube.com/watch?v=QJjjmAmEsjg
-
-Subscribe our channel and like our videos https://www.youtube.com/c/Angulars
+# this project made by 1st year student
+# made by
+# นาย พันธกาญจน์ ผ่องเกษม 630612107
+# พงษ์ธเนศ นามสวัสดิ์ 630612106
+# ยศกร ลิขิตรังสรรค์ 630612109
+# ธนัญชัย ชัยมณี 630612101
